@@ -1,0 +1,21 @@
+User inputs needed
+
+1. Directory where all the images are located
+2. New file name for .docx file 
+3. Picture Height & Weight for docx file image
+
+
+
+
+[Note: 
+ 1. .docx file will be created inside the directory provided by user in step 1
+ 2. Pictures will be added based on ascending order of the file name
+ 3. Based on the picture name, A sentence will be created under picture in docx
+ 4. This Appication supports only .png, .jpg, .jpeg image files
+ 5. image file name cannot contain forward slash(/) or backward slash(\)
+ ]
+ 
+ 
+ Software requird :
+ 1.
+ 2.

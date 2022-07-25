@@ -1,0 +1,6 @@
+com\app\utils\Utils.class
+com\app\config\ConfigReader.class
+com\app\App.class
+com\app\utils\DocxManager.class
+com\app\utils\DocxUtils.class
+com\app\config\AppConfig.class
